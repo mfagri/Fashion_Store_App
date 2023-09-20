@@ -50,18 +50,29 @@ Your security is our number one priority, and we have put in place strict measur
 
 ## Screenshots
 
-![Screenshot 1](screenshots/s1.png)
-![Screenshot 2](screenshots/s2.png)
-![Screenshot 3](screenshots/s3.png)
-![Screenshot 4](screenshots/s4.png)
-![Screenshot 5](screenshots/s5.png)
-![Screenshot 6](screenshots/s6.png)
-![Screenshot 7](screenshots/s7.png)
-![Screenshot 8](screenshots/s8.png)
-![Screenshot 9](screenshots/s9.png)
-![Screenshot 10](screenshots/s10.png)
-![Screenshot 11](screenshots/s11.png)
-![Screenshot 12](screenshots/s12.png)
+<div align="center">
+  <img src="screenshots/s1.png" width="200">
+  <img src="screenshots/s2.png" width="200">
+  <img src="screenshots/s3.png" width="200">
+</div>
+
+<div align="center">
+  <img src="screenshots/s4.png" width="200">
+  <img src="screenshots/s5.png" width="200">
+  <img src="screenshots/s6.png" width="200">
+</div>
+
+<div align="center">
+  <img src="screenshots/s7.png" width="200">
+  <img src="screenshots/s8.png" width="200">
+  <img src="screenshots/s9.png" width="200">
+</div>
+
+<div align="center">
+  <img src="screenshots/s10.png" width="200">
+  <img src="screenshots/s11.png" width="200">
+  <img src="screenshots/s12.png" width="200">
+</div>
 
 ## Installation
 
