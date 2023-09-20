@@ -42,7 +42,7 @@ Your security is our number one priority, and we have put in place strict measur
 
 - **Shopping Cart Perfection:** Managing your shopping cart has never been this easy. Add or remove items with a single tap, and watch as your cart updates instantly.
 
-- **Global Accessibility:** To cater to a global audience, [Fashion Store App] offers localization support. Enjoy a seamless shopping experience in your preferred language and region.
+- **Global Accessibility:** To cater to a global audience, Fashion Store App offers localization support. Enjoy a seamless shopping experience in your preferred language and region.
 
 - **In-Depth Product Insights:** Dive deep into product details, descriptions, and customer reviews. Make well-informed purchasing decisions with all the information at your fingertips.
 
@@ -94,7 +94,7 @@ Fashion Store App uses JWT-based authentication to secure user data and transact
 
 ## State Management
 
-State management in [Fashion Store App] is powered by the Provider package. Enjoy real-time updates and seamless cart management.
+State management in Fashion Store App is powered by the Provider package. Enjoy real-time updates and seamless cart management.
 
 ## Localization
 
