@@ -77,7 +77,7 @@ Your security is our number one priority, and we have put in place strict measur
 ## Installation
 
 - Clone this repository: `git clone https://github.com/mfagri/Fashion_Store_App.git`
-- Navigate to the project directory: `cd [Your Repository Name]`
+- Navigate to the project directory: `cd Fashion_Store_App`
 - Install dependencies: `flutter pub get`
 
 ## Usage
